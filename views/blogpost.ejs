@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="/css/reset_plus.css">
+<link rel="stylesheet" href="/css/home.css">
+
+<article>
+
+  <h1><%=post.title %></h1>
+  <img width="200"  src=<%=post.image %>>
+  <% for(var t=0; t<post.tags.length; t++) { %>
+    <span><%=post.tags[t] %></span>
+  <% } //end forloop %>
+  <date><%=post.date %></date>
+  <p><%=post.excerpt %></p>
+  <address class="author"><%=post.author %></address>
+  <a href="/blog/<%=index %>">meer lezen...</a>
+</article>

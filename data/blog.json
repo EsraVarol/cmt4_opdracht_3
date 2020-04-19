@@ -1,0 +1,73 @@
+{
+  "blog": [{
+    "title": "The fall of Phaeton",
+    "author": "Peter Paul Rubens",
+    "tags": [""],
+    "image": "/Phaeton.jpg",
+    "excerpt": "Peter Paul Rubens",
+    "content": " 1604 - olieverf op paneel, afmetingen: 28x27,5 herkomst: Legaat mevr. Adela Crooke y de Guzman de Osma gravin de Valencia de Don Juan, Parijs, 1919"
+  },{
+    "title": "De Sterrennacht",
+    "author": "Vincent Van Gogh",
+    "tags": [""],
+    "image": "/sterrennacht.jpg",
+    "excerpt": "Vincent Van Gogh",
+    "content": "1889 - De sterrennacht is een schilderij van de Nederlandse postimpressionistische kunstschilder Vincent van Gogh. Het is geschilderd in olieverf op doek en meet 73 bij 92 cm. Het wordt gezien als een van zijn grootste meesterwerken. Het behoort tot de permanente collectie van het Museum of Modern Art in New York."
+  },{
+    "title": "La Promenade",
+    "author": "Claude Monet",
+    "tags": [""],
+    "image": "/promenade.jpg",
+    "excerpt": "Claude Monet",
+    "content": " 1875 - Madame Monet en haar zoon, ook wel bekend als The Stroll, is een olieverfschilderij van Claude Monet uit 1875. Afmetingen: 1 m x 82 cm. "
+  },{
+    "title": "Waterloo Bridge",
+    "author": "Claude Monet",
+    "tags": [""],
+    "image": "/waterloo.jpg",
+    "excerpt": "Claude Monet",
+    "content": " 1903 - Claude Monet (1840-1926), Waterloo Bridge. Effect van mist, 1903, olieverf op doek, 65.3 x 101 cm, Museum De Hermitage, Sint-Petersburg."
+  },{
+    "title": "La Vie",
+    "author": "Pablo Picasso",
+    "tags": [""],
+    "image": "/lavie.jpg",
+    "excerpt": "Pablo Picasso",
+    "content": "1903 - La Vie is een schilderij van de Spaanse kunstschilder Pablo Picasso. Het is uitgevoerd in olieverf op linnen en meet 196,5 × 128,5 cm. Het bevindt zich in de Cleveland Museum of Art in Cleveland. Picasso heeft het in voorjaar en/of zomer van 1903 vervaardigd in Barcelona. "
+  },{
+    "title": "The Garden of Love",
+    "author": "Peter Paul Rubens",
+    "tags": [""],
+    "image": "/gardenlove.jpg",
+    "excerpt": "Peter Paul Rubens",
+    "content": "1633 - The Garden of Love is een schilderij van Rubens, gemaakt rond 1633 en hangt nu in het Prado Museum in Madrid. afmetingen:280 x 200 cm. "
+  },{
+    "title": "De Oude Gitarist",
+    "author": "Pablo Picasso",
+    "tags": [""],
+    "image": "/gitarist.jpg",
+    "excerpt": "Pablo Picasso",
+    "content": "1903 - De oude gitarist is een olieverfschilderij door Pablo Picasso gemaakt late 1903 - begin 1904. Het toont een oude, blinde, verwilderd man met versleten kleding zwak gebogen over zijn gitaar, spelen in de straten van Barcelona, Spanje . Het is momenteel te zien in het Art Institute of Chicago als onderdeel van het Helen Birch Bartlett Memorial Collection. afmetingen:122,9 cm x 82,6 cm"
+  },{
+    "title": "Mona Lisa",
+    "author": "Leonardo Da Vinci",
+    "tags": [""],
+    "image": "/monalisa.jpg",
+    "excerpt": "Leonardo Da Vinci",
+    "content": "1503 - Mona Lisa is een geschilderd werk van Leonardo da Vinci, dat nu in Musée du Louvre hangt. De gebruikte techniek is olieverf op paneel. Afmetingen: 77 cm x 53 cm Museum: Musée du Louvre"
+  },{
+    "title": "De Rode Wijngaard",
+    "author": "Vincent Van Gogh",
+    "tags": [""],
+    "image": "/wijngaard.jpg",
+    "excerpt": "Vincent Van Gogh",
+    "content": "1888 - De rode wijngaard is een schilderij van de Nederlandse kunstschilder Vincent van Gogh, in olie op linnen, 75 x 93 centimeter groot. Het werd geschilderd in november 1888 in Arles. Het doek is het enige schilderij van Van Gogh dat tijdens zijn leven werd verkocht. "
+  },{
+    "title": "Het Laatste Avondmaal",
+    "author": "Leonardo Da Vinci",
+    "tags": [""],
+    "image": "/avondmaal.jpg",
+    "excerpt": "Leonardo Da Vinci",
+    "content": "1498 - Het Laatste Avondmaal is een muurschildering geschilderd door Leonardo da Vinci in opdracht van hertog Ludovico Sforza in de refter van het Santa Maria delle Grazie, een dominicaner klooster in Milaan. Afmetingen: 4,6 m x 8,8 m"
+  }]
+}

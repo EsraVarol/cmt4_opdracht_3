@@ -1,0 +1,39 @@
+
+
+
+<link rel="stylesheet" href="/css/reset_plus.css">
+<link rel="stylesheet" href="/css/blog.css">
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+
+<%- include("header"); -%>
+
+<article>
+  <h1><%=post.title %></h1>
+    <img width="400" src=<%=post.image %>>
+  <% for(let t=0; t<post.tags.length; t++) { %>
+    <span><%=post.tags[t] %></span>
+  <% } // end forloop %>
+
+  <date><%=post.date %></date>
+
+  <p><%=post.content %></p>
+  <address class="author"><%=post.author %></address>
+</article>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<%- include("footer"); -%>
